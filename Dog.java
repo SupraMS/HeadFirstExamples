@@ -42,6 +42,7 @@ if(i<2){
 	myDogs[i].chaseCat();
 }else{
 	myDogs[i].eat();
+	System.out.println("Git New");
 }
 }
 }
